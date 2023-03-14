@@ -1,0 +1,29 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "EmployeeManagementSystem",
+            "request": "launch",
+            "mainClass": "EmployeeManagementSystem",
+            "projectName": "Employee_Management_System_fb20669d"
+        },
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "EmployeeManagementSytem",
+            "request": "launch",
+            "mainClass": "EmployeeManagementSytem",
+            "projectName": "Employee_Management_System_fb20669d",
+            "vmArgs": "--module-path /home/ifti/Downloads/openjfx-19.0.2.1_linux-x64_bin-sdk/javafx-sdk-19.0.2.1/lib --add-modules javafx.controls,javafx.fxml"
+        }
+    ]
+}

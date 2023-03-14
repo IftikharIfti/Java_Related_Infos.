@@ -1,0 +1,14 @@
+In order to set vscode for jdbc, first download the mysql-connector-j_8.0.32-1ubuntu22.10.all
+
+we download this by typing simply writing  download mysql connector j in google.
+ 
+The best tutorial to do this are given in the links below.
+"https://youtu.be/OM4aZJW_Ojs"
+
+the old guys vdo: "https://youtu.be/_g8ljkh9JNY"
+
+and my all time saviour, boostmytools : "https://youtu.be/MtME-ERufu0"
+
+I don't need to set settings.json or use any vmArgs.
+just add the mysql jar lib
+

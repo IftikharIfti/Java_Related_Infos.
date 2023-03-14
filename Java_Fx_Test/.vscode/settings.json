@@ -1,0 +1,23 @@
+{
+    "java.project.sourcePaths": ["src"],
+    "java.project.outputPath": "bin",
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar",
+        "e:\\Java\\javafx-sdk-19.0.2.1\\lib\\javafx.base.jar",
+        "e:\\Java\\javafx-sdk-19.0.2.1\\lib\\javafx.controls.jar",
+        "e:\\Java\\javafx-sdk-19.0.2.1\\lib\\javafx.fxml.jar",
+        "e:\\Java\\javafx-sdk-19.0.2.1\\lib\\javafx.graphics.jar",
+        "e:\\Java\\javafx-sdk-19.0.2.1\\lib\\javafx.media.jar",
+        "e:\\Java\\javafx-sdk-19.0.2.1\\lib\\javafx.swing.jar",
+        "e:\\Java\\javafx-sdk-19.0.2.1\\lib\\javafx.web.jar",
+        "e:\\Java\\javafx-sdk-19.0.2.1\\lib\\javafx-swt.jar",
+        "/media/ifti/EDUCATION/Java/javafx-sdk-19.0.2.1/lib/javafx-swt.jar",
+        "/media/ifti/EDUCATION/Java/javafx-sdk-19.0.2.1/lib/javafx.web.jar",
+        "/media/ifti/EDUCATION/Java/javafx-sdk-19.0.2.1/lib/javafx.swing.jar",
+        "/media/ifti/EDUCATION/Java/javafx-sdk-19.0.2.1/lib/javafx.media.jar",
+        "/media/ifti/EDUCATION/Java/javafx-sdk-19.0.2.1/lib/javafx.graphics.jar",
+        "/media/ifti/EDUCATION/Java/javafx-sdk-19.0.2.1/lib/javafx.fxml.jar",
+        "/media/ifti/EDUCATION/Java/javafx-sdk-19.0.2.1/lib/javafx.controls.jar",
+        "/media/ifti/EDUCATION/Java/javafx-sdk-19.0.2.1/lib/javafx.base.jar"
+    ]
+}
